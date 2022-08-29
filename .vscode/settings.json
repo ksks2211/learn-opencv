@@ -1,0 +1,23 @@
+{
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "editor.fontFamily": "Consolas, D2Coding, 'Courier New', monospace",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 120,
+  "explorer.confirmDelete": false,
+  "explorer.sortOrder": "type",
+  "cSpell.words": [
+    "DIVX",
+    "fourcc",
+    "hstack",
+    "inversed",
+    "LBUTTON",
+    "LBUTTONDOWN",
+    "Milli",
+    "MOUSEMOVE",
+    "polylines",
+    "RBUTTONDOWN",
+    "Trackbar"
+  ],
+}
